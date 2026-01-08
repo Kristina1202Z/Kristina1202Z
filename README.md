@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Kristina1202Z/Kristina1202Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Kristina 👋
 
-Here are some ideas to get you started:
+🎓 University Of Toronto
+📊 Aspiring Data Analyst 
+📍 Toronto, Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Languages:** Python, R, SQL
+- **Data & Analytics:** Pandas, NumPy, Jupyter, Tableau, Power BI
+- **Databases:** SQLite, MySQL
+- **Tools:** Git, GitHub, Excel, VS Code
+
+### 📈 Featured Projects
+- **Tesla & GameStop Revenue Analysis**
+  - Financial data cleaning and visualization using Python
+  - Explored revenue trends and market performance
+
+- **Wage Inequality Analysis (NLSY Data)**
+  - Econometric modeling with large-scale survey data
+  - Regression analysis and statistical inference
+
+### 🌱 Currently Learning
+- Advanced SQL & data modeling
+- Machine learning for analytics
+- Dashboard storytelling
+
+### 📫 Connect with Me
+- GitHub: https://github.com/Kristina1202Z
